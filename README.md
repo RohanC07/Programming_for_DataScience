@@ -22,7 +22,7 @@ Summarizes key findings, visualizations, and conclusions.
 Highlights challenges encountered during the analysis.
 Dataset:
 
-Includes all required data files for the analysis (ensure proper paths).
+Includes all required data files for the analysis.
 Python Packages Used
 Ensure these packages are installed before running the code:
 
